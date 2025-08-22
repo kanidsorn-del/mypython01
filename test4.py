@@ -1,0 +1,5 @@
+print('hello',555,'wow',999,True,'hi',18 + 30 -5,125.745)
+print('hello' + '555' + 'wow' + '999' + 'true' + 'hi' + str(10 + 30 -5)+str(125.745))
+print('hello {} Wow {} {} Hi {} {}' .format(555,999,True,10+25-5,158.785))
+print('{2} {1} '.format('a','b','c','d','e'))
+print(f'hello {555} Wow {True}Hi {10+25-5} {15.8785}')
